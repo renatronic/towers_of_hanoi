@@ -1,4 +1,4 @@
-A command line version of the ancient mathematical puzzle Towers of Hanoi built with stacks used as the underlying data structure of the game stacks.
+A command line version of the ancient mathematical puzzle Towers of Hanoi built with stacks as the underlying data structure of the game stacks.
 
 The game starts off with three stacks and many disks and the objective is to move the stack of disks from the leftmost stack to the rightmost stack.
 
